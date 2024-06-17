@@ -39,10 +39,12 @@ positions of first light source
 # Sample Outputs
 
 <p align="center">
-<img src="https://github.com/ieranik/fat/blob/main/images/output1.bmp">
+<img src="https://github.com/ieranik/raytracer/blob/main/images/output1.bmp">
 
 <p align="center">
-<img src="https://github.com/ieranik/fat/blob/main/images/fat2.bmp">
+<img src="https://github.com/ieranik/raytracer/blob/main/images/output2.bmp">
+
+
 
 
 
